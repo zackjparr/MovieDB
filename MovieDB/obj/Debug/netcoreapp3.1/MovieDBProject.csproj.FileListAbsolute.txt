@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.exe
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.deps.json
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.runtimeconfig.json
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.dll
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDBProject.pdb
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.dll
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.pdb
+C:\Users\ZParr\source\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDBProject.genruntimeconfig.cache
